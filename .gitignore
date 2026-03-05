@@ -1,6 +1,7 @@
 # Backend
 node_modules/
 .env
+.env.example
 .env.local
 dist/
 build/
